@@ -12,9 +12,13 @@ A Python based script to Download/Backup Podcasts
 ###### Creating the JSON file of Podcasts
 1) Run the script "PodcastListManager.py" (python3 PodcastListManager.py)
 2) Follow the instruction prompted in the script
+
 2a) Press 1 to view current Podcast list
+
 2b) Press 2 to add a new podcast
+
 2c) Give the details requested. Make sure you are giving the xml link not just a link to the Podcast site.
+
 3) If you need to remove a Podcast please open the JSON file and remove it. I will add the functionality to remove Podcasts in future updates.
 4) If you need to change a Podcast please open the JSON file and ammend. I will add the functionality to edit Podcasts in future updates.
 
