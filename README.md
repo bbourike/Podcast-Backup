@@ -32,6 +32,7 @@ A Python based script to Download/Backup Podcasts
 1. Add extra functionalities into the Podcast Manager to delete and edit entries
 2. Get extra infomation from the podcasts such as cover art, comments, etc
 3. Create a GUI / WebUI for easier management and Organisation
+4. More Flexability to Inputs (Give link to site and Name, RSS, Description and Site should be pulled)
 
 
 ## Thanks / Credit
